@@ -1,22 +1,199 @@
-<h1 align="center">Hi 👋, I'm Aryaman Swami</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<!--
+  ARYAMAN SWAMI | RETRO RPG DEVELOPER PROFILE
+  Theme: Midnight Blue / Neon Purple / Pixel RPG
+-->
 
-- 🔭 I’m currently working on **Bajaj Finserv Health Ltd**
+<div align="center">
 
-- 📫 How to reach me **swamiaryaman21.as@gmail.com**
+# ░▒▓ PLAYER ONE ▓▒░
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryaman-swami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryaman-swami" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryaman-swami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryaman-swami" height="30" width="40" /></a>
-</p>
+## ARYAMAN SWAMI
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**BACKEND ENGINEER · SYSTEM BUILDER · PROBLEM SOLVER**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman-swami&show_icons=true&locale=en&layout=compact" alt="aryaman-swami" /></p>
+*Every great system starts with a single line of code.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaman-swami&show_icons=true&locale=en" alt="aryaman-swami" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman-swami&" alt="aryaman-swami" /></p>
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║          ✦  PLAYER PROFILE  ✦                ║
+║                                              ║
+║             ARYAMAN SWAMI                    ║
+║                                              ║
+║          CLASS : SOFTWARE ENGINEER           ║
+║          GUILD : BAJAJ FINSERV HEALTH        ║
+║          REGION: INDIA                       ║
+║                                              ║
+║          SPECIALIZATION                      ║
+║          ─────────────────────               ║
+║          [ JAVA ]  [ SPRING BOOT ]            ║
+║          [ KAFKA ] [ DISTRIBUTED SYSTEMS ]    ║
+║                                              ║
+║          STATUS : ONLINE                     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
+[ GITHUB ](https://github.com/Aryaman-Swami) &nbsp; · &nbsp; [ LINKEDIN ](https://linkedin.com/in/aryaman-swami) &nbsp; · &nbsp; [ SEND A MESSAGE ](mailto:swamiaryaman21.as@gmail.com)
+
+</div>
+
+---
+
+## ▸ CHARACTER INTRODUCTION
+
+```yaml
+player:
+  name: Aryaman Swami
+  occupation: Software Engineer
+  current_guild: Bajaj Finserv Health Ltd.
+  experience: 2+ years
+
+  primary_class:
+    - Backend Engineering
+    - Distributed Systems
+    - Microservices Architecture
+
+  current_mission:
+    - Building scalable systems
+    - Exploring system design
+    - Engineering AI-powered products
+
+  alignment: Build | Learn | Improve
+```
+
+I'm a Software Engineer who enjoys solving complex engineering problems and building systems that scale.
+
+From event-driven architectures and enterprise authentication to distributed file management and performance optimization, I enjoy working on the engineering behind products that people rely on.
+
+---
+
+## ▸ SKILL TREE
+
+*Choose your abilities. Every skill unlocks a new possibility.*
+
+| SKILL CATEGORY | UNLOCKED ABILITIES |
+|:---|:---|
+| ⚔ Languages | Java · JavaScript · TypeScript · SQL |
+| 🛡 Backend | Spring Boot · Spring Security · Node.js · Express.js · NestJS |
+| 🔮 Messaging | Apache Kafka · Azure Service Bus |
+| 💎 Databases | PostgreSQL · MongoDB · Oracle · Redis |
+| 🌌 Infrastructure | Azure · AWS · Docker · Kubernetes · Helm |
+| 🧩 Engineering | Microservices · Distributed Systems · System Design · Concurrency · DSA |
+
+### Current equipment
+
+```text
+MAIN WEAPON       : Java + Spring Boot
+SECONDARY WEAPON  : Node.js
+SPECIAL ABILITY   : Distributed Systems
+PASSIVE SKILL     : System Design
+SUPPORT EQUIPMENT : Kafka + Redis
+BATTLEFIELD       : Azure + Kubernetes
+```
+
+---
+
+## ▸ QUEST LOG
+
+*Every project is a new level. Every problem is a new boss.*
+
+### QUEST 01 — SHOPPER ASSIST
+
+`STATUS: COMPLETED`
+
+**An AI-powered shopping companion**
+
+Turn a shopping list into an optimized in-store journey.
+
+- Integrated Gemini Vision to extract products from images and text.
+- Implemented hybrid semantic and lexical SKU matching using pgvector and pg_trgm.
+- Modeled store layouts as weighted graphs and implemented shortest-path aisle routing.
+- Built an orchestrated planning API using React, Node.js, Express and Supabase.
+
+**TECH USED:** React · Node.js · PostgreSQL · pgvector · Gemini API
+
+[ ENTER QUEST → VIEW SOURCE CODE](https://github.com/Aryaman-Swami/Shopper-assist)
+
+---
+
+### QUEST 02 — JOB TRACKER
+
+`STATUS: COMPLETED`
+
+**An intelligent job application tracker**
+
+A smarter way to discover and prioritize relevant job opportunities.
+
+- Built a full-stack application using React, Java and Spring Boot.
+- Integrated Claude API to parse job descriptions and evaluate resume compatibility.
+- Persisted ATS match scores in PostgreSQL to rank opportunities.
+- Implemented scraper-side notifications using ntfy to deliver high-match job postings in real time without application polling.
+
+**TECH USED:** React · Java · Spring Boot · PostgreSQL · Claude API
+
+[ ENTER QUEST → VIEW SOURCE CODE](https://github.com/Aryaman-Swami/Job-Tracker)
+
+---
+
+## ▸ ACHIEVEMENT UNLOCKED
+
+*Milestones from my engineering journey.*
+
+| ACHIEVEMENT | MILESTONE |
+|:---|:---|
+| ⚡ Event Architect | Improved event processing throughput 3x to 1,000 TPM |
+| 🔐 Identity Architect | Onboarded 15+ enterprise SSO partners |
+| 🗄 Storage Engineer | Built a file management platform handling 200K+ daily transactions |
+| 🚀 Performance Optimizer | Reduced application heap usage by 60% |
+| 🔄 Migration Engineer | Modernized 4 legacy portals from Java 8 to Java 25 |
+| 💳 Payment Automation | Enabled 500+ daily onboarding verification requests |
+
+---
+
+## ▸ ACTIVE MISSIONS
+
+```text
+[ IN PROGRESS ]  Mastering Distributed Systems
+[ IN PROGRESS ]  Exploring Advanced System Design
+[ IN PROGRESS ]  Building AI-powered Applications
+[ IN PROGRESS ]  Improving Performance Engineering
+
+NEXT BOSS:  Designing systems at scale.
+```
+
+---
+
+## ▸ PLAYER CONNECTIONS
+
+*Every great adventure is better with fellow builders.*
+
+<div align="center">
+
+**Have an interesting engineering problem? Let's talk.**
+
+[LinkedIn](https://linkedin.com/in/aryaman-swami) &nbsp; · &nbsp; [GitHub](https://github.com/Aryaman-Swami) &nbsp; · &nbsp; [Email](mailto:swamiaryaman21.as@gmail.com)
+
+<br/>
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║       THANKS FOR VISITING, PLAYER!       ║
+║                                          ║
+║       KEEP BUILDING. KEEP LEVELING.     ║
+║                                          ║
+║              ▄▄▄▄▄▄▄                    ║
+║             █ ▀ █ ▀ █                   ║
+║             █▄▄▄█▄▄▄█                   ║
+║                                          ║
+║              GAME ON  ▸                 ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+*Crafted with curiosity and a little bit of pixel magic.*
+
+</div>
