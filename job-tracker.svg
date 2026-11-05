@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#10152F"/><stop offset="1" stop-color="#241044"/></linearGradient></defs>
+<rect x="5" y="5" width="890" height="220" rx="18" fill="url(#b)" stroke="#38BDF8" stroke-width="3"/>
+<rect x="25" y="22" width="8" height="26" rx="3" fill="#38BDF8"/>
+<text x="50" y="43" fill="#FFFFFF" font-family="monospace" font-size="25" font-weight="bold">QUEST 02 / JOB TRACKER</text>
+<path d="M25 62 H875" stroke="#38BDF8" stroke-width="2"/>
+<text x="38" y="88" fill="#A5B4FC" font-family="monospace" font-size="15">AI-POWERED JOB APPLICATION TRACKER</text>
+<text x="38" y="112" fill="#E5EDFF" font-family="monospace" font-size="18">PARSES JOB DESCRIPTIONS AND SCORES RESUMES</text><text x="38" y="142" fill="#E5EDFF" font-family="monospace" font-size="18">CLAUDE API + POSTGRESQL + SPRING BOOT</text><text x="38" y="172" fill="#E5EDFF" font-family="monospace" font-size="18">REAL-TIME JOB ALERTS THROUGH NTFY</text><text x="38" y="202" fill="#E5EDFF" font-family="monospace" font-size="18">REACT  •  JAVA  •  POSTGRESQL</text></svg>

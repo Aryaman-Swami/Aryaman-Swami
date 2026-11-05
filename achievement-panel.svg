@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#10152F"/><stop offset="1" stop-color="#241044"/></linearGradient></defs>
+<rect x="5" y="5" width="890" height="220" rx="18" fill="url(#b)" stroke="#22D3EE" stroke-width="3"/>
+<rect x="25" y="22" width="8" height="26" rx="3" fill="#38BDF8"/>
+<text x="50" y="43" fill="#FFFFFF" font-family="monospace" font-size="25" font-weight="bold">ACHIEVEMENTS UNLOCKED</text>
+<path d="M25 62 H875" stroke="#22D3EE" stroke-width="2"/>
+<text x="38" y="88" fill="#A5B4FC" font-family="monospace" font-size="15">REAL-WORLD ENGINEERING IMPACT</text>
+<text x="38" y="112" fill="#E5EDFF" font-family="monospace" font-size="18">3x EVENT THROUGHPUT  →  1,000 TPM</text><text x="38" y="142" fill="#E5EDFF" font-family="monospace" font-size="18">15+ ENTERPRISE SSO PARTNERS ONBOARDED</text><text x="38" y="172" fill="#E5EDFF" font-family="monospace" font-size="18">200K+ DAILY FILE-SERVICE TRANSACTIONS</text><text x="38" y="202" fill="#E5EDFF" font-family="monospace" font-size="18">60% LOWER HEAP USAGE  →  3 GB TO 1.2 GB</text></svg>
