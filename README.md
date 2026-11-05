@@ -18,24 +18,45 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="28%" align="center" valign="middle">
 
-### ◈ PLAYER PROFILE
-**Name:** Aryaman Swami  
-**Role:** Software Development Engineer  
-**Organization:** Bajaj Finserv Health Ltd.  
-**Focus:** Backend engineering, distributed systems  
-**Location:** India
+<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=Aryaman&backgroundColor=111827" width="130" alt="Pixel art avatar">
+
+**PLAYER 001**
+
+`BACKEND ENGINEER`
 
 </td>
-<td width="50%" valign="top">
+<td width="72%" valign="middle">
 
-### ◈ CHARACTER BIO
-I build backend platforms for real production workloads — from event-driven services and enterprise identity to file infrastructure and payment workflows. My core stack revolves around Java, Spring Boot, Kafka, cloud infrastructure, and distributed systems.
+### ARYAMAN SWAMI
+
+**Software Development Engineer**
+
+`LEVEL 02+` · `SYSTEM BUILDER` · `INDIA`
+
+| PLAYER ATTRIBUTE | STATUS |
+|:--|:--|
+| Current Guild | Bajaj Finserv Health Ltd. |
+| Primary Class | Backend Engineering |
+| Main Weapon | Java & Spring Boot |
+| Special Ability | Distributed Systems |
+| Power-ups | Kafka · Redis · Kubernetes |
+| Current Focus | Scalability & System Design |
 
 </td>
 </tr>
 </table>
+
+### ◈ CHARACTER BACKSTORY
+
+I'm a Software Development Engineer with **2+ years of experience** building backend systems and distributed microservices for production environments.
+
+My work revolves around **Java, Spring Boot, event-driven architecture, and cloud infrastructure**. I've worked on high-throughput Kafka pipelines, enterprise SAML SSO integrations, centralized authentication, and file management platforms serving multiple portals.
+
+I enjoy engineering systems that are scalable, reliable, and efficient — understanding not just how to build a service, but how it behaves under real-world load.
+
+**Currently interested in:** Distributed Systems · Low-Latency Architecture · System Design · Performance Engineering
 
 ## 01 / SKILL TREE
 <img src="skill-tree.svg" alt="Skill tree" width="100%">
