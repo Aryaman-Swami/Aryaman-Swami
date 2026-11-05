@@ -1,199 +1,121 @@
-<!--
-  ARYAMAN SWAMI | RETRO RPG DEVELOPER PROFILE
-  Theme: Midnight Blue / Neon Purple / Pixel RPG
--->
+ <div align="center">
+
+<img src="assets/profile-banner.png" width="100%" alt="Aryaman Swami — Retro RPG Developer Banner" />
+
+</div>
 
 <div align="center">
 
-# ░▒▓ PLAYER ONE ▓▒░
+### `PLAYER ONE` · SOFTWARE ENGINEER
 
-## ARYAMAN SWAMI
+**Building scalable systems, one service at a time.**
 
-**BACKEND ENGINEER · SYSTEM BUILDER · PROBLEM SOLVER**
-
-*Every great system starts with a single line of code.*
-
-<br/>
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║          ✦  PLAYER PROFILE  ✦                ║
-║                                              ║
-║             ARYAMAN SWAMI                    ║
-║                                              ║
-║          CLASS : SOFTWARE ENGINEER           ║
-║          GUILD : BAJAJ FINSERV HEALTH        ║
-║          REGION: INDIA                       ║
-║                                              ║
-║          SPECIALIZATION                      ║
-║          ─────────────────────               ║
-║          [ JAVA ]  [ SPRING BOOT ]            ║
-║          [ KAFKA ] [ DISTRIBUTED SYSTEMS ]    ║
-║                                              ║
-║          STATUS : ONLINE                     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-[ GITHUB ](https://github.com/Aryaman-Swami) &nbsp; · &nbsp; [ LINKEDIN ](https://linkedin.com/in/aryaman-swami) &nbsp; · &nbsp; [ SEND A MESSAGE ](mailto:swamiaryaman21.as@gmail.com)
+[GitHub](https://github.com/Aryaman-Swami) · [LinkedIn](https://linkedin.com/in/aryaman-swami) · [Email](mailto:swamiaryaman21.as@gmail.com)
 
 </div>
 
 ---
 
-## ▸ CHARACTER INTRODUCTION
+## `01` — PLAYER PROFILE
 
-```yaml
-player:
-  name: Aryaman Swami
-  occupation: Software Engineer
-  current_guild: Bajaj Finserv Health Ltd.
-  experience: 2+ years
+| Attribute | Details |
+|:--|:--|
+| **Player** | Aryaman Swami |
+| **Class** | Backend Engineer |
+| **Guild** | Bajaj Finserv Health Ltd. |
+| **Experience** | 2+ Years |
+| **Location** | India |
+| **Specialization** | Distributed Systems · Backend Engineering |
 
-  primary_class:
-    - Backend Engineering
-    - Distributed Systems
-    - Microservices Architecture
+> Software Engineer focused on designing scalable backend systems, distributed architectures, and performance-intensive services. I enjoy solving complex engineering problems and building reliable systems that make a real-world impact.
 
-  current_mission:
-    - Building scalable systems
-    - Exploring system design
-    - Engineering AI-powered products
+## `02` — SKILL TREE
 
-  alignment: Build | Learn | Improve
-```
+| Skill Branch | Technologies |
+|:--|:--|
+| **Languages** | Java · JavaScript · TypeScript · SQL |
+| **Backend** | Spring Boot · Spring Security · Node.js · Express.js · NestJS |
+| **Architecture** | Microservices · REST APIs · OAuth2/OIDC · SAML 2.0 · JWT |
+| **Messaging** | Apache Kafka · Azure Service Bus |
+| **Databases** | PostgreSQL · Oracle · MongoDB · Redis |
+| **Cloud & Infrastructure** | Azure · AWS · Docker · Kubernetes · Helm · CI/CD |
+| **Engineering** | DSA · OOP · Concurrency · System Design · Design Patterns |
+| **Monitoring** | ELK Stack · Grafana |
 
-I'm a Software Engineer who enjoys solving complex engineering problems and building systems that scale.
+## `03` — QUEST LOG / PROJECTS
 
-From event-driven architectures and enterprise authentication to distributed file management and performance optimization, I enjoy working on the engineering behind products that people rely on.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🛒 Shopper Assist
 
-## ▸ SKILL TREE
+**AI-powered shopping route optimizer**
 
-*Choose your abilities. Every skill unlocks a new possibility.*
+- Converts photo or text shopping lists into optimized in-store routes.
+- Uses Gemini Vision for item extraction.
+- Hybrid semantic and lexical SKU matching using pgvector and pg_trgm.
+- Graph-based shortest-path aisle routing.
 
-| SKILL CATEGORY | UNLOCKED ABILITIES |
-|:---|:---|
-| ⚔ Languages | Java · JavaScript · TypeScript · SQL |
-| 🛡 Backend | Spring Boot · Spring Security · Node.js · Express.js · NestJS |
-| 🔮 Messaging | Apache Kafka · Azure Service Bus |
-| 💎 Databases | PostgreSQL · MongoDB · Oracle · Redis |
-| 🌌 Infrastructure | Azure · AWS · Docker · Kubernetes · Helm |
-| 🧩 Engineering | Microservices · Distributed Systems · System Design · Concurrency · DSA |
+`React` `Node.js` `Supabase` `pgvector` `Gemini`
 
-### Current equipment
+[⚔ View Repository](https://github.com/Aryaman-Swami/Shopper-assist)
 
-```text
-MAIN WEAPON       : Java + Spring Boot
-SECONDARY WEAPON  : Node.js
-SPECIAL ABILITY   : Distributed Systems
-PASSIVE SKILL     : System Design
-SUPPORT EQUIPMENT : Kafka + Redis
-BATTLEFIELD       : Azure + Kubernetes
-```
+</td>
+<td width="50%" valign="top">
 
----
+### 💼 Job Tracker
 
-## ▸ QUEST LOG
+**AI-powered job application tracker**
 
-*Every project is a new level. Every problem is a new boss.*
+- Parses job descriptions and evaluates resume compatibility.
+- Generates ATS match scores using Claude API.
+- Stores and ranks opportunities in PostgreSQL.
+- Sends real-time job alerts through ntfy without app polling.
 
-### QUEST 01 — SHOPPER ASSIST
+`React` `Java` `Spring Boot` `PostgreSQL` `Claude API`
 
-`STATUS: COMPLETED`
+[⚔ View Repository](https://github.com/Aryaman-Swami/Job-Tracker)
 
-**An AI-powered shopping companion**
+</td>
+</tr>
+</table>
 
-Turn a shopping list into an optimized in-store journey.
+## `04` — ACHIEVEMENTS UNLOCKED
 
-- Integrated Gemini Vision to extract products from images and text.
-- Implemented hybrid semantic and lexical SKU matching using pgvector and pg_trgm.
-- Modeled store layouts as weighted graphs and implemented shortest-path aisle routing.
-- Built an orchestrated planning API using React, Node.js, Express and Supabase.
+| Achievement | Engineering Impact |
+|:--|:--|
+| **Event Architect** | Increased event processing throughput 3× to **1,000 TPM** using Kafka. |
+| **Identity Architect** | Onboarded **15+ enterprise partners** onto SAML 2.0 SSO. |
+| **Storage Engineer** | Built file management services handling **200K+ daily transactions** at sub-100ms p99 API latency. |
+| **Migration Engineer** | Modernized **4 legacy portals** from Java 8 to Java 25. |
+| **Performance Optimizer** | Reduced heap memory usage by **60%** (3 GB → 1.2 GB). |
+| **Payment Automation** | Reduced verification time by **85%+** (20 minutes → under 3 minutes), supporting 500+ daily onboarding requests. |
 
-**TECH USED:** React · Node.js · PostgreSQL · pgvector · Gemini API
+## `05` — CURRENT AREAS OF INTEREST
 
-[ ENTER QUEST → VIEW SOURCE CODE](https://github.com/Aryaman-Swami/Shopper-assist)
+- [x] Building scalable backend services
+- [x] Event-driven and distributed architectures
+- [ ] Advanced system design and distributed systems
+- [ ] Performance engineering and reliability
+- [ ] Exploring AI-powered product experiences
 
----
-
-### QUEST 02 — JOB TRACKER
-
-`STATUS: COMPLETED`
-
-**An intelligent job application tracker**
-
-A smarter way to discover and prioritize relevant job opportunities.
-
-- Built a full-stack application using React, Java and Spring Boot.
-- Integrated Claude API to parse job descriptions and evaluate resume compatibility.
-- Persisted ATS match scores in PostgreSQL to rank opportunities.
-- Implemented scraper-side notifications using ntfy to deliver high-match job postings in real time without application polling.
-
-**TECH USED:** React · Java · Spring Boot · PostgreSQL · Claude API
-
-[ ENTER QUEST → VIEW SOURCE CODE](https://github.com/Aryaman-Swami/Job-Tracker)
-
----
-
-## ▸ ACHIEVEMENT UNLOCKED
-
-*Milestones from my engineering journey.*
-
-| ACHIEVEMENT | MILESTONE |
-|:---|:---|
-| ⚡ Event Architect | Improved event processing throughput 3x to 1,000 TPM |
-| 🔐 Identity Architect | Onboarded 15+ enterprise SSO partners |
-| 🗄 Storage Engineer | Built a file management platform handling 200K+ daily transactions |
-| 🚀 Performance Optimizer | Reduced application heap usage by 60% |
-| 🔄 Migration Engineer | Modernized 4 legacy portals from Java 8 to Java 25 |
-| 💳 Payment Automation | Enabled 500+ daily onboarding verification requests |
-
----
-
-## ▸ ACTIVE MISSIONS
-
-```text
-[ IN PROGRESS ]  Mastering Distributed Systems
-[ IN PROGRESS ]  Exploring Advanced System Design
-[ IN PROGRESS ]  Building AI-powered Applications
-[ IN PROGRESS ]  Improving Performance Engineering
-
-NEXT BOSS:  Designing systems at scale.
-```
-
----
-
-## ▸ PLAYER CONNECTIONS
-
-*Every great adventure is better with fellow builders.*
+## `06` — PLAYER CONNECTIONS
 
 <div align="center">
 
-**Have an interesting engineering problem? Let's talk.**
+[![GitHub](https://img.shields.io/badge/GitHub-Aryaman--Swami-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryaman-Swami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryaman-swami)
+[![Email](https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamiaryaman21.as@gmail.com)
 
-[LinkedIn](https://linkedin.com/in/aryaman-swami) &nbsp; · &nbsp; [GitHub](https://github.com/Aryaman-Swami) &nbsp; · &nbsp; [Email](mailto:swamiaryaman21.as@gmail.com)
+</div>
 
-<br/>
+---
 
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║       THANKS FOR VISITING, PLAYER!       ║
-║                                          ║
-║       KEEP BUILDING. KEEP LEVELING.     ║
-║                                          ║
-║              ▄▄▄▄▄▄▄                    ║
-║             █ ▀ █ ▀ █                   ║
-║             █▄▄▄█▄▄▄█                   ║
-║                                          ║
-║              GAME ON  ▸                 ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+<div align="center">
 
-*Crafted with curiosity and a little bit of pixel magic.*
+`GAME ON`
+
+**Thanks for visiting. Let's build something meaningful together.**
 
 </div>
