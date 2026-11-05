@@ -39,7 +39,7 @@
 
 <br>
 
-<h2 align="center"><font color="#E879F9">▰ CHARACTER BACKSTORY</font></h2>
+<h2 align="center"><font color="#E879F9">CHARACTER BACKSTORY</font></h2>
 
 <div align="center">
 <img src="character-backstory.svg" width="96%" alt="Neon purple character backstory panel">
@@ -65,15 +65,12 @@
 
 <br>
 
-<h2 align="center"><font color="#22D3EE">▰ SKILL TREE</font></h2>
-
-<div align="center">
-<img src="https://img.shields.io/badge/BACKEND-Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security-7C3AED?style=for-the-badge"></div></br>
+<h2 align="center"><font color="#22D3EE"> SKILL TREE</font></h2>
+<div style="display: grid; grid-template-columns: 100px auto; justify-content: center; gap: 8px 10px;">
+<img src="https://img.shields.io/badge/BACKEND-Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security-7C3AED?style=for-the-badge"></br>
 <img src="https://img.shields.io/badge/MESSAGING-Kafka%20%7C%20Azure%20Service%20Bus-0891B2?style=for-the-badge"></br>
-<br><br>
 <img src="https://img.shields.io/badge/DATABASES-PostgreSQL%20%7C%20Oracle%20%7C%20MongoDB%20%7C%20Redis-DB2777?style=for-the-badge"></br>
 <img src="https://img.shields.io/badge/CLOUD-Azure%20%7C%20AWS-6D28D9?style=for-the-badge"></br>
-<br><br>
 <img src="https://img.shields.io/badge/DEVOPS-Docker%20%7C%20Kubernetes%20%7C%20Helm-0E7490?style=for-the-badge"></br>
 </div>
 
@@ -99,7 +96,7 @@
 
 <br>
 
-<h2 align="center"><font color="#FBBF24">▰ QUEST LOG — COMPLETED PROJECTS</font></h2>
+<h2 align="center"><font color="#FBBF24">QUEST LOG — COMPLETED PROJECTS</font></h2>
 
 <table align="center" width="96%" border="0" cellpadding="18" cellspacing="12">
 <tr>
@@ -138,7 +135,7 @@
 
 <br>
 
-<h2 align="center"><font color="#FBBF24">▰ ACHIEVEMENTS UNLOCKED</font></h2>
+<h2 align="center"><font color="#FBBF24">ACHIEVEMENTS UNLOCKED</font></h2>
 
 <div align="center">
 <img src="achievement-panel.svg" width="96%" alt="Engineering achievements panel">
@@ -157,7 +154,7 @@
 
 <br>
 
-<h2 align="center"><font color="#E879F9">▰ PLAYER CONNECTIONS</font></h2>
+<h2 align="center"><font color="#E879F9">PLAYER CONNECTIONS</font></h2>
 
 <div align="center">
 <a href="https://github.com/Aryaman-Swami"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
