@@ -1,65 +1,67 @@
 <div align="center">
-
-<img src="profile-banner.png" alt="Aryaman Swami — pixel-art developer banner" width="100%">
-
-<h2>PLAYER ONE · BACKEND ENGINEER</h2>
-<p><b>Building scalable systems, one service at a time.</b></p>
-<p>
-<a href="https://github.com/Aryaman-Swami">GITHUB</a> ·
-<a href="https://linkedin.com/in/aryaman-swami">LINKEDIN</a> ·
-<a href="mailto:swamiaryaman21.as@gmail.com">EMAIL</a>
-</p>
-<img src="https://img.shields.io/badge/CLASS-Backend%20Engineer-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20Years-0891B2?style=for-the-badge">
-<img src="https://img.shields.io/badge/GUILD-Bajaj%20Finserv-312E81?style=for-the-badge">
+  <img src="profile-banner.png" width="100%" alt="Aryaman Swami retro pixel-art banner">
 </div>
 
----
+<h2 align="center">✦ PLAYER PROFILE ✦</h2>
 
-<table>
-<tr>
-<td width="28%" align="center" valign="middle">
-
-<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=Aryaman&backgroundColor=111827" width="130" alt="Pixel art avatar">
-
-**PLAYER 001**
-
-`BACKEND ENGINEER`
-
-</td>
-<td width="72%" valign="middle">
-
-### ARYAMAN SWAMI
-
-**Software Development Engineer**
-
-`LEVEL 02+` · `SYSTEM BUILDER` · `INDIA`
-
-| PLAYER ATTRIBUTE | STATUS |
-|:--|:--|
-| Current Guild | Bajaj Finserv Health Ltd. |
-| Primary Class | Backend Engineering |
-| Main Weapon | Java & Spring Boot |
-| Special Ability | Distributed Systems |
-| Power-ups | Kafka · Redis · Kubernetes |
-| Current Focus | Scalability & System Design |
-
-</td>
-</tr>
+<table align="center" width="92%" cellpadding="14" bgcolor="#11102B">
+  <tr>
+    <td align="center" width="34%" bgcolor="#211044">
+      <img src="player-avatar.png" width="190" alt="Retro pixel-art player avatar">
+      <h3><font color="#F0ABFC">ARYAMAN SWAMI</font></h3>
+      <p><font color="#67E8F9"><b>PLAYER 001</b></font></p>
+      <p><font color="#FBBF24"><b>BACKEND ENGINEER</b></font></p>
+      <p>
+        <img src="https://img.shields.io/badge/LEVEL-02%2B-9333EA?style=for-the-badge">
+        <img src="https://img.shields.io/badge/REGION-INDIA-0891B2?style=for-the-badge">
+      </p>
+    </td>
+    <td align="center" valign="middle" bgcolor="#171735">
+      <h3><font color="#67E8F9">PLAYER STATS</font></h3>
+      <table align="center" width="100%" cellpadding="9">
+        <tr bgcolor="#29204B"><td><font color="#F0ABFC"><b>GUILD</b></font></td><td><font color="#FFFFFF">Bajaj Finserv Health Ltd.</font></td></tr>
+        <tr bgcolor="#1C2447"><td><font color="#F0ABFC"><b>CLASS</b></font></td><td><font color="#FFFFFF">Software Development Engineer</font></td></tr>
+        <tr bgcolor="#29204B"><td><font color="#F0ABFC"><b>MAIN WEAPON</b></font></td><td><font color="#FFFFFF">Java · Spring Boot</font></td></tr>
+        <tr bgcolor="#1C2447"><td><font color="#F0ABFC"><b>SPECIAL ABILITY</b></font></td><td><font color="#FFFFFF">Distributed Systems</font></td></tr>
+        <tr bgcolor="#29204B"><td><font color="#F0ABFC"><b>POWER-UPS</b></font></td><td><font color="#FFFFFF">Kafka · Redis · Kubernetes</font></td></tr>
+        <tr bgcolor="#1C2447"><td><font color="#F0ABFC"><b>CURRENT FOCUS</b></font></td><td><font color="#FFFFFF">Scalability &amp; System Design</font></td></tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
-### ◈ CHARACTER BACKSTORY
+<br>
 
-I'm a Software Development Engineer with **2+ years of experience** building backend systems and distributed microservices for production environments.
+<h2 align="center">📜 CHARACTER BACKSTORY</h2>
 
-My work revolves around **Java, Spring Boot, event-driven architecture, and cloud infrastructure**. I've worked on high-throughput Kafka pipelines, enterprise SAML SSO integrations, centralized authentication, and file management platforms serving multiple portals.
+<table align="center" width="92%" cellpadding="16" bgcolor="#17132F">
+  <tr>
+    <td>
+      <p align="center"><font color="#F0ABFC"><b>THE ENGINEER BEHIND THE SYSTEMS</b></font></p>
+      <p align="center">
+        <font color="#E9D5FF">
+          I'm a Software Development Engineer with <b>2+ years of experience</b> building backend systems and distributed microservices for production environments.
+        </font>
+      </p>
+      <p align="center">
+        <font color="#BAE6FD">
+          My work revolves around <b>Java, Spring Boot, event-driven architecture, and cloud infrastructure</b>. I've built high-throughput Kafka pipelines, enterprise SAML SSO integrations, centralized authentication, and file management platforms serving multiple portals.
+        </font>
+      </p>
+      <p align="center">
+        <font color="#FCD34D"><b>CURRENTLY EXPLORING</b></font><br>
+        <font color="#67E8F9">Distributed Systems&nbsp; · &nbsp;Low-Latency Architecture&nbsp; · &nbsp;System Design&nbsp; · &nbsp;Performance Engineering</font>
+      </p>
+    </td>
+  </tr>
+</table>
 
-I enjoy engineering systems that are scalable, reliable, and efficient — understanding not just how to build a service, but how it behaves under real-world load.
+<br>
 
-**Currently interested in:** Distributed Systems · Low-Latency Architecture · System Design · Performance Engineering
-
-## 01 / SKILL TREE
-<img src="skill-tree.svg" alt="Skill tree" width="100%">
+<h2 align="center">🌳 SKILL TREE</h2>
+<div align="center">
+  <img src="skill-tree.svg" width="92%" alt="Retro skill tree">
+</div>
 
 <details>
 <summary><b>Open complete technology inventory</b></summary>
@@ -76,29 +78,37 @@ I enjoy engineering systems that are scalable, reliable, and efficient — under
 | Monitoring | ELK Stack, Grafana |
 </details>
 
-## 02 / QUEST LOG
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="shopper-assist.svg" alt="Shopper Assist project card" width="100%">
-<p>Turns a photo or text shopping list into an optimized in-store route using Gemini Vision, hybrid semantic/lexical SKU matching, and graph-based shortest-path routing.</p>
-<code>React</code> <code>Node.js</code> <code>Supabase</code> <code>pgvector</code> <code>Gemini</code>
-<p><a href="https://github.com/Aryaman-Swami/Shopper-assist"><b>↗ EXPLORE QUEST</b></a></p>
-</td>
-<td width="50%" valign="top">
-<img src="job-tracker.svg" alt="Job Tracker project card" width="100%">
-<p>Tracks applications, parses job descriptions, scores resume compatibility with Claude API, and sends real-time alerts for newly discovered high-match roles through ntfy.</p>
-<code>React</code> <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Claude API</code>
-<p><a href="https://github.com/Aryaman-Swami/Job-Tracker"><b>↗ EXPLORE QUEST</b></a></p>
-</td>
-</tr>
+<h2 align="center">⚔️ QUEST LOG — COMPLETED PROJECTS</h2>
+
+<table align="center" width="92%" cellpadding="16" bgcolor="#17132F">
+  <tr>
+    <td>
+      <h3><font color="#FBBF24">QUEST 01 — SHOPPER ASSIST</font> <font color="#34D399">[COMPLETED]</font></h3>
+      <p>AI-powered shopping assistant that turns a photo or text shopping list into an optimal in-store route.</p>
+      <p><font color="#67E8F9">React · Node.js · Supabase · pgvector · Gemini</font></p>
+      <a href="https://github.com/Aryaman-Swami/Shopper-assist">↗ VIEW QUEST REPOSITORY</a>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#21183D">
+      <h3><font color="#F0ABFC">QUEST 02 — JOB TRACKER</font> <font color="#34D399">[COMPLETED]</font></h3>
+      <p>AI-powered job application tracker that parses job descriptions, scores them against my resume, ranks opportunities, and sends real-time alerts through ntfy.</p>
+      <p><font color="#67E8F9">React · Java · Spring Boot · PostgreSQL · Claude API</font></p>
+      <a href="https://github.com/Aryaman-Swami/Job-Tracker">↗ VIEW QUEST REPOSITORY</a>
+    </td>
+  </tr>
 </table>
 
-## 03 / ACHIEVEMENTS UNLOCKED
-<img src="achievement-panel.svg" alt="Engineering achievements" width="100%">
+<br>
 
-| Achievement | Impact |
+<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED</h2>
+<div align="center">
+  <img src="achievement-panel.svg" width="92%" alt="Engineering achievements">
+</div>
+
+| Achievement | Engineering Impact |
 |---|---|
 | Event Architect | Increased event processing throughput 3× to 1,000 TPM using Kafka. |
 | Identity Architect | Onboarded 15+ enterprise partners onto SAML 2.0 SSO. |
@@ -107,18 +117,11 @@ I enjoy engineering systems that are scalable, reliable, and efficient — under
 | Performance Optimizer | Reduced heap memory by 60% — from 3 GB to 1.2 GB. |
 | Payment Automation | Cut verification time by 85%+ — from 20 minutes to under 3 minutes — supporting 500+ daily onboarding requests. |
 
-## 04 / CURRENT MISSIONS
-- [x] Build and operate scalable backend services
-- [x] Work with event-driven and distributed architectures
-- [ ] Deepen system design and distributed systems expertise
-- [ ] Explore AI-powered product experiences
-- [ ] Improve performance engineering and reliability
-
-## 05 / PLAYER CONNECTIONS
+<h2 align="center">🌌 PLAYER CONNECTIONS</h2>
 <div align="center">
-<a href="https://github.com/Aryaman-Swami"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://linkedin.com/in/aryaman-swami"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:swamiaryaman21.as@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<br><br><sub>✦ THANKS FOR VISITING ✦</sub><br>
-<b>Let's build something meaningful together.</b>
+  <a href="https://github.com/Aryaman-Swami"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aryaman-swami"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:swamiaryaman21.as@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <br><br>
+  <b><font color="#67E8F9">✦ MORE QUESTS COMING SOON... ✦</font></b>
 </div>
