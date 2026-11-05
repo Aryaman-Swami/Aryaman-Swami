@@ -68,13 +68,13 @@
 <h2 align="center"><font color="#22D3EE">▰ SKILL TREE</font></h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/BACKEND-Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/MESSAGING-Kafka%20%7C%20Azure%20Service%20Bus-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/BACKEND-Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security-7C3AED?style=for-the-badge"></div></br>
+<img src="https://img.shields.io/badge/MESSAGING-Kafka%20%7C%20Azure%20Service%20Bus-0891B2?style=for-the-badge"></br>
 <br><br>
-<img src="https://img.shields.io/badge/DATABASES-PostgreSQL%20%7C%20Oracle%20%7C%20MongoDB%20%7C%20Redis-DB2777?style=for-the-badge">
-<img src="https://img.shields.io/badge/CLOUD-Azure%20%7C%20AWS-6D28D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/DATABASES-PostgreSQL%20%7C%20Oracle%20%7C%20MongoDB%20%7C%20Redis-DB2777?style=for-the-badge"></br>
+<img src="https://img.shields.io/badge/CLOUD-Azure%20%7C%20AWS-6D28D9?style=for-the-badge"></br>
 <br><br>
-<img src="https://img.shields.io/badge/DEVOPS-Docker%20%7C%20Kubernetes%20%7C%20Helm-0E7490?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVOPS-Docker%20%7C%20Kubernetes%20%7C%20Helm-0E7490?style=for-the-badge"></br>
 </div>
 
 <br>
