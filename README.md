@@ -1,127 +1,98 @@
+<div align="center"><img src="retro-city-banner.png" width="100%" alt="Retro pixel-art neon city skyline"><h1><font color="#C084FC">ARYAMAN SWAMI</font></h1>
+<h3>SOFTWARE DEVELOPMENT ENGINEER</h3>
+<p><b><font color="#22D3EE">Building scalable systems, one service at a time.</font></b></p><img src="https://img.shields.io/badge/PLAYER-001-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/CLASS-BACKEND%20ENGINEER-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/LEVEL-2%2B%20YEARS-DB2777?style=for-the-badge"></div><div align="center">
+  <img src="player-profile-panel.svg" width="96%" alt="Player profile — backend engineer, Bajaj Finserv Health, Java, Spring Boot and distributed systems">
+</div><table align="center" width="96%" cellpadding="12">
+<tr>
+<td align="center" bgcolor="#17143B">
+<b><font color="#C084FC">CURRENT GUILD</font></b><br>
+<font color="#FFFFFF">Bajaj Finserv Health Ltd.</font>
+</td>
+<td align="center" bgcolor="#102B4A">
+<b><font color="#22D3EE">PRIMARY CLASS</font></b><br>
+<font color="#FFFFFF">Backend Engineering</font>
+</td>
+<td align="center" bgcolor="#351442">
+<b><font color="#F0ABFC">REGION</font></b><br>
+<font color="#FFFFFF">India</font>
+</td>
+</tr>
+</table><font color="#D946EF">▰ CHARACTER BACKSTORY</font>
 <div align="center">
-  <img src="profile-banner.png" width="100%" alt="Aryaman Swami retro pixel-art banner">
-</div>
-
-<h2 align="center">✦ PLAYER PROFILE ✦</h2>
-
-<table align="center" width="92%" cellpadding="14" bgcolor="#11102B">
-  <tr>
-    <td align="center" width="34%" bgcolor="#211044">
-      <img src="player-avatar.png" width="190" alt="Retro pixel-art player avatar">
-      <h3><font color="#F0ABFC">ARYAMAN SWAMI</font></h3>
-      <p><font color="#67E8F9"><b>PLAYER 001</b></font></p>
-      <p><font color="#FBBF24"><b>BACKEND ENGINEER</b></font></p>
-      <p>
-        <img src="https://img.shields.io/badge/LEVEL-02%2B-9333EA?style=for-the-badge">
-        <img src="https://img.shields.io/badge/REGION-INDIA-0891B2?style=for-the-badge">
-      </p>
-    </td>
-    <td align="center" valign="middle" bgcolor="#171735">
-      <h3><font color="#67E8F9">PLAYER STATS</font></h3>
-      <table align="center" width="100%" cellpadding="9">
-        <tr bgcolor="#29204B"><td><font color="#F0ABFC"><b>GUILD</b></font></td><td><font color="#FFFFFF">Bajaj Finserv Health Ltd.</font></td></tr>
-        <tr bgcolor="#1C2447"><td><font color="#F0ABFC"><b>CLASS</b></font></td><td><font color="#FFFFFF">Software Development Engineer</font></td></tr>
-        <tr bgcolor="#29204B"><td><font color="#F0ABFC"><b>MAIN WEAPON</b></font></td><td><font color="#FFFFFF">Java · Spring Boot</font></td></tr>
-        <tr bgcolor="#1C2447"><td><font color="#F0ABFC"><b>SPECIAL ABILITY</b></font></td><td><font color="#FFFFFF">Distributed Systems</font></td></tr>
-        <tr bgcolor="#29204B"><td><font color="#F0ABFC"><b>POWER-UPS</b></font></td><td><font color="#FFFFFF">Kafka · Redis · Kubernetes</font></td></tr>
-        <tr bgcolor="#1C2447"><td><font color="#F0ABFC"><b>CURRENT FOCUS</b></font></td><td><font color="#FFFFFF">Scalability &amp; System Design</font></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">📜 CHARACTER BACKSTORY</h2>
-
-<table align="center" width="92%" cellpadding="16" bgcolor="#17132F">
-  <tr>
-    <td>
-      <p align="center"><font color="#F0ABFC"><b>THE ENGINEER BEHIND THE SYSTEMS</b></font></p>
-      <p align="center">
-        <font color="#E9D5FF">
-          I'm a Software Development Engineer with <b>2+ years of experience</b> building backend systems and distributed microservices for production environments.
-        </font>
-      </p>
-      <p align="center">
-        <font color="#BAE6FD">
-          My work revolves around <b>Java, Spring Boot, event-driven architecture, and cloud infrastructure</b>. I've built high-throughput Kafka pipelines, enterprise SAML SSO integrations, centralized authentication, and file management platforms serving multiple portals.
-        </font>
-      </p>
-      <p align="center">
-        <font color="#FCD34D"><b>CURRENTLY EXPLORING</b></font><br>
-        <font color="#67E8F9">Distributed Systems&nbsp; · &nbsp;Low-Latency Architecture&nbsp; · &nbsp;System Design&nbsp; · &nbsp;Performance Engineering</font>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🌳 SKILL TREE</h2>
+  <img src="character-backstory.svg" width="96%" alt="Character backstory in a neon purple and cyan RPG panel">
+</div><table align="center" width="96%" cellpadding="14">
+<tr>
+<td bgcolor="#17143B">
+<p><font color="#E9D5FF">I'm a Software Development Engineer with <b>2+ years of experience</b> building backend systems and distributed microservices for production environments.</font></p>
+<p><font color="#67E8F9">My work revolves around <b>Java, Spring Boot, event-driven architecture, and cloud infrastructure</b>. I've built high-throughput Kafka pipelines, enterprise SAML SSO integrations, centralized authentication, and file management platforms serving multiple portals.</font></p>
+<p><font color="#FBBF24"><b>CURRENTLY INTERESTED IN</b></font><br>
+<font color="#F0ABFC">Distributed Systems</font> · <font color="#67E8F9">Low-Latency Architecture</font> · <font color="#F0ABFC">System Design</font> · <font color="#67E8F9">Performance Engineering</font></p>
+</td>
+</tr>
+</table><font color="#22D3EE">▰ SKILL TREE</font>
 <div align="center">
-  <img src="skill-tree.svg" width="92%" alt="Retro skill tree">
-</div>
+<img src="https://img.shields.io/badge/BACKEND-Java%20%7C%20Spring%20Boot%20%7C%20Spring%20Security-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/MESSAGING-Kafka%20%7C%20Azure%20Service%20Bus-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/DATABASES-PostgreSQL%20%7C%20Oracle%20%7C%20MongoDB%20%7C%20Redis-DB2777?style=for-the-badge">
+<img src="https://img.shields.io/badge/CLOUD-Azure%20%7C%20AWS-6D28D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVOPS-Docker%20%7C%20Kubernetes%20%7C%20Helm-0E7490?style=for-the-badge">
+</div><details>
+<summary><b>OPEN COMPLETE TECHNOLOGY INVENTORY</b></summary>Category	Technologies
+Languages	Java, JavaScript, TypeScript, SQL
+Backend	Spring Boot, Spring Security, Node.js, Express.js, NestJS
+Identity	OAuth2/OIDC, SAML 2.0, JWT
+Messaging	Apache Kafka, Azure Service Bus
+Databases	PostgreSQL, Oracle, MongoDB, Redis
+Cloud & DevOps	Azure, AWS, Docker, Kubernetes, Helm, CI/CD
+Engineering	DSA, OOP, Concurrency, System Design, Design Patterns
+Monitoring	ELK Stack, Grafana
 
-<details>
-<summary><b>Open complete technology inventory</b></summary>
 
-| Category | Technologies |
-|---|---|
-| Languages | Java, JavaScript, TypeScript, SQL |
-| Backend | Spring Boot, Spring Security, Node.js, Express.js, NestJS |
-| Identity | OAuth2/OIDC, SAML 2.0, JWT |
-| Messaging | Apache Kafka, Azure Service Bus |
-| Databases | PostgreSQL, Oracle, MongoDB, Redis |
-| Cloud & DevOps | Azure, AWS, Docker, Kubernetes, Helm, CI/CD |
-| Engineering | DSA, OOP, concurrency, system design, design patterns |
-| Monitoring | ELK Stack, Grafana |
-</details>
-
-<br>
-
-<h2 align="center">⚔️ QUEST LOG — COMPLETED PROJECTS</h2>
-
-<table align="center" width="92%" cellpadding="16" bgcolor="#17132F">
-  <tr>
-    <td>
-      <h3><font color="#FBBF24">QUEST 01 — SHOPPER ASSIST</font> <font color="#34D399">[COMPLETED]</font></h3>
-      <p>AI-powered shopping assistant that turns a photo or text shopping list into an optimal in-store route.</p>
-      <p><font color="#67E8F9">React · Node.js · Supabase · pgvector · Gemini</font></p>
-      <a href="https://github.com/Aryaman-Swami/Shopper-assist">↗ VIEW QUEST REPOSITORY</a>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#21183D">
-      <h3><font color="#F0ABFC">QUEST 02 — JOB TRACKER</font> <font color="#34D399">[COMPLETED]</font></h3>
-      <p>AI-powered job application tracker that parses job descriptions, scores them against my resume, ranks opportunities, and sends real-time alerts through ntfy.</p>
-      <p><font color="#67E8F9">React · Java · Spring Boot · PostgreSQL · Claude API</font></p>
-      <a href="https://github.com/Aryaman-Swami/Job-Tracker">↗ VIEW QUEST REPOSITORY</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED</h2>
+</details><font color="#FBBF24">▰ QUEST LOG — COMPLETED PROJECTS</font>
+<table align="center" width="96%" cellpadding="14">
+<tr>
+<td bgcolor="#21133D">
+<img src="shopper-assist-card.svg" width="100%" alt="Shopper Assist quest card">
+<p><font color="#FDE68A"><b>MISSION:</b></font> Turns a photo or text shopping list into an optimal in-store route using Gemini Vision, hybrid semantic/lexical SKU matching, and graph-based shortest-path routing.</p>
+<p>
+<img src="https://img.shields.io/badge/React-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Node.js-15803D?style=flat-square">
+<img src="https://img.shields.io/badge/Supabase-166534?style=flat-square">
+<img src="https://img.shields.io/badge/pgvector-0E7490?style=flat-square">
+<img src="https://img.shields.io/badge/Gemini-6D28D9?style=flat-square">
+</p>
+<a href="https://github.com/Aryaman-Swami/Shopper-assist"><b>↗ VIEW SHOPPER ASSIST REPOSITORY</b></a>
+</td>
+</tr>
+<tr>
+<td bgcolor="#111F42">
+<img src="job-tracker-card.svg" width="100%" alt="Job Tracker quest card">
+<p><font color="#67E8F9"><b>MISSION:</b></font> Tracks job applications, parses descriptions, scores resume compatibility using Claude API, ranks opportunities, and sends real-time alerts for high-match jobs through ntfy.</p>
+<p>
+<img src="https://img.shields.io/badge/React-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Java-B45309?style=flat-square">
+<img src="https://img.shields.io/badge/Spring%20Boot-15803D?style=flat-square">
+<img src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square">
+<img src="https://img.shields.io/badge/Claude-6D28D9?style=flat-square">
+</p>
+<a href="https://github.com/Aryaman-Swami/Job-Tracker"><b>↗ VIEW JOB TRACKER REPOSITORY</b></a>
+</td>
+</tr>
+</table><font color="#FBBF24">▰ ACHIEVEMENTS UNLOCKED</font>
+<table align="center" width="96%" cellpadding="10">
+<tr><td bgcolor="#251744"><font color="#FBBF24"><b>EVENT ARCHITECT</b></font></td><td bgcolor="#17143B">Increased event processing throughput 3× to <b>1,000 TPM</b> using Kafka.</td></tr>
+<tr><td bgcolor="#102B4A"><font color="#67E8F9"><b>IDENTITY ARCHITECT</b></font></td><td bgcolor="#17143B">Onboarded <b>15+ enterprise partners</b> onto SAML 2.0 SSO.</td></tr>
+<tr><td bgcolor="#251744"><font color="#F0ABFC"><b>STORAGE ENGINEER</b></font></td><td bgcolor="#17143B">Built a file management service handling <b>200K+ daily transactions</b> at sub-100ms p99 API latency.</td></tr>
+<tr><td bgcolor="#102B4A"><font color="#67E8F9"><b>MIGRATION ENGINEER</b></font></td><td bgcolor="#17143B">Modernized <b>4 legacy portals</b> from Java 8 to Java 25.</td></tr>
+<tr><td bgcolor="#251744"><font color="#FBBF24"><b>PERFORMANCE OPTIMIZER</b></font></td><td bgcolor="#17143B">Reduced heap memory by <b>60%</b> — from 3 GB to 1.2 GB.</td></tr>
+<tr><td bgcolor="#102B4A"><font color="#67E8F9"><b>PAYMENT AUTOMATION</b></font></td><td bgcolor="#17143B">Cut verification time by <b>85%+</b> — from 20 minutes to under 3 minutes — supporting 500+ daily onboarding requests.</td></tr>
+</table><font color="#D946EF">▰ PLAYER CONNECTIONS</font>
 <div align="center">
-  <img src="achievement-panel.svg" width="92%" alt="Engineering achievements">
-</div>
-
-| Achievement | Engineering Impact |
-|---|---|
-| Event Architect | Increased event processing throughput 3× to 1,000 TPM using Kafka. |
-| Identity Architect | Onboarded 15+ enterprise partners onto SAML 2.0 SSO. |
-| Storage Engineer | Built a file management service handling 200K+ daily transactions at sub-100ms p99 API latency. |
-| Migration Engineer | Modernized 4 legacy portals from Java 8 to Java 25. |
-| Performance Optimizer | Reduced heap memory by 60% — from 3 GB to 1.2 GB. |
-| Payment Automation | Cut verification time by 85%+ — from 20 minutes to under 3 minutes — supporting 500+ daily onboarding requests. |
-
-<h2 align="center">🌌 PLAYER CONNECTIONS</h2>
-<div align="center">
-  <a href="https://github.com/Aryaman-Swami"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/aryaman-swami"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:swamiaryaman21.as@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <br><br>
-  <b><font color="#67E8F9">✦ MORE QUESTS COMING SOON... ✦</font></b>
+<a href="https://github.com/Aryaman-Swami"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/aryaman-swami"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:swamiaryaman21.as@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br><br>
+<b><font color="#22D3EE">✦ MORE QUESTS COMING SOON... ✦</font></b>
 </div>
