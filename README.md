@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Aryaman Swami — pixel-art developer banner" width="100%">
+<img src="profile-banner.png" alt="Aryaman Swami — pixel-art developer banner" width="100%">
 
 <h2>PLAYER ONE · BACKEND ENGINEER</h2>
 <p><b>Building scalable systems, one service at a time.</b></p>
@@ -38,7 +38,7 @@ I build backend platforms for real production workloads — from event-driven se
 </table>
 
 ## 01 / SKILL TREE
-<img src="assets/skill-tree.svg" alt="Skill tree" width="100%">
+<img src="skill-tree.svg" alt="Skill tree" width="100%">
 
 <details>
 <summary><b>Open complete technology inventory</b></summary>
@@ -60,13 +60,13 @@ I build backend platforms for real production workloads — from event-driven se
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/shopper-assist.svg" alt="Shopper Assist project card" width="100%">
+<img src="shopper-assist.svg" alt="Shopper Assist project card" width="100%">
 <p>Turns a photo or text shopping list into an optimized in-store route using Gemini Vision, hybrid semantic/lexical SKU matching, and graph-based shortest-path routing.</p>
 <code>React</code> <code>Node.js</code> <code>Supabase</code> <code>pgvector</code> <code>Gemini</code>
 <p><a href="https://github.com/Aryaman-Swami/Shopper-assist"><b>↗ EXPLORE QUEST</b></a></p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/job-tracker.svg" alt="Job Tracker project card" width="100%">
+<img src="job-tracker.svg" alt="Job Tracker project card" width="100%">
 <p>Tracks applications, parses job descriptions, scores resume compatibility with Claude API, and sends real-time alerts for newly discovered high-match roles through ntfy.</p>
 <code>React</code> <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Claude API</code>
 <p><a href="https://github.com/Aryaman-Swami/Job-Tracker"><b>↗ EXPLORE QUEST</b></a></p>
@@ -75,7 +75,7 @@ I build backend platforms for real production workloads — from event-driven se
 </table>
 
 ## 03 / ACHIEVEMENTS UNLOCKED
-<img src="assets/achievement-panel.svg" alt="Engineering achievements" width="100%">
+<img src="achievement-panel.svg" alt="Engineering achievements" width="100%">
 
 | Achievement | Impact |
 |---|---|
