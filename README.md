@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Aryaman Swami — Retro RPG Developer Banner" />
+<img src="aryaman-rpg-profile-banner.png" width="100%" alt="Aryaman Swami — Retro RPG Developer Banner" />
 
 </div>
 
